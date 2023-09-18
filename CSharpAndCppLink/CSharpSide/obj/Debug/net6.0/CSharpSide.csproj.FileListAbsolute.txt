@@ -1,0 +1,14 @@
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\bin\Debug\net6.0\CSharpSide.exe
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\bin\Debug\net6.0\CSharpSide.deps.json
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\bin\Debug\net6.0\CSharpSide.runtimeconfig.json
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\bin\Debug\net6.0\CSharpSide.dll
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\bin\Debug\net6.0\CSharpSide.pdb
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.AssemblyInfoInputs.cache
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.AssemblyInfo.cs
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.csproj.CoreCompileInputs.cache
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.dll
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\refint\CSharpSide.dll
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.pdb
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\CSharpSide.genruntimeconfig.cache
+C:\Users\Cimation\Desktop\PROJECT\CSharpAndCppLink\CSharpSide\obj\Debug\net6.0\ref\CSharpSide.dll
